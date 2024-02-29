@@ -1,0 +1,57 @@
+PS C:\Users\Bharath Kumar Ch\Desktop\Scannerproject>  & 'C:\Program Files\Java\jdk-17.0.2\bin\java.exe' '-XX:+ShowCodeDetailsInExceptionMessages' '-cp' 'C:\Users\Bharath Kumar Ch\AppData\Roaming\Code\User\workspaceStorage\c73a50ef67ff035a6e837e57fa1d0972\redhat.java\jdt_ws\Scannerproject_917ba04b\bin' 'MainClass'
+0               Valid Integer Literal
+int2x           Identifier
++               Plus Operator        
+3               Valid Integer Literal
+;               Semicolon-Separator
+2               Valid Integer Literal
+int             Keyword
+,               Comma - Separator
+long            Keyword
+x12             Identifier
+=               Assign Operator
+2L              Valid Integer Literal
+;               Semicolon-Separator
+1               Valid Integer Literal
+i               Identifier
++=              Operator
+j               Identifier
+52              Valid Integer Literal
+5_2             Valid Integer Literal
+5_2L            Valid Integer Literal
+5_2l            Valid Integer Literal
+5__2            Valid Integer Literal
+5_21            Valid Integer Literal
+00              Invalid Integer Literal
+01              Invalid Integer Literal
+0_52            Invalid Integer Literal
+_52             Invalid Integer Literal
+52_             Invalid Integer Literal
+int2x           Identifier
++               Plus Operator
+3               Valid Integer Literal
+;               Semicolon-Separator
+.25             Invalid Double Literal
+1.256           Valid Double Literal
+x123            Identifier
+123             Valid Integer Literal
+y               Identifier
+Hey             Identifier
+longx12         Identifier
+2               Valid Integer Literal
+xlong           Identifier
+2               Valid Integer Literal
+yint            Identifier
+10              Valid Integer Literal
+int             Keyword
+int             Keyword
+x1              Identifier
+,               Comma - Separator
+x2              Identifier
+;               Semicolon-Separator
+double          Keyword
+y1              Identifier
+=               Assign Operator
+2.58            Valid Double Literal
+;               Semicolon-Separator
+0.              Valid Double Literal
