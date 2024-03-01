@@ -6,3 +6,4 @@ The program mainly consists of
 4) Input.txt
 
 The output file named Output.txt is also been submitted in the zip file.
+The code can be executed in VS Code
